@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.idea/
+.DS_Store
+# generated on the partner's machine by npm install
+package-lock.json
